@@ -28,14 +28,6 @@ The project was developed as part of my learning in Medical Imaging and software
 - hashlib (Password hashing for security)
 - datetime (Date validation and handling)## Project Structure
 
-Radiology Information System/
-│
-├── main.py              # Application entry point
-├── gui.py               # User interface (Tkinter)
-├── database.py          # Database operations and logic
-├── radiology.db         # SQLite database (ignored in Git)
-├── .gitignore
-└── README.md            ## Installation & Setup
 
 ### 1. Clone the repository
 ```bash
@@ -61,6 +53,14 @@ python main.py
 5. Generate and update radiology reports
 6. Monitor system activity via dashboard## Future Improvements
 
+
+## Application Screenshots
+### Login Page
+![Login](Images/login page.png)
+### Dashboard Page
+![Login](Images/Dashboard page.png)
+### View Patients Page
+![Login](Images/view patients page.png)
 
 ## Future Improvements
 

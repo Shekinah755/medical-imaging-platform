@@ -1,3 +1,10 @@
+#Python cache
 __pycache__/
+*.py[cod]
+
+#PyCharm
 .idea/
-*.pyc
+
+#Virtual Environments
+venv/
+.venv/

@@ -77,23 +77,7 @@ The system applies multiple image enhancement techniques including noise reducti
 - Processed dataset generation
 - Visualization of intermediate and final processing stages
 
-### Project Structure
 
-#### Medical_Image_Enhancement_System/
-
-├── main.py
-
-├── experiments.ipynb
-
-├── outputs/
-
-│   ├── enhanced_xray.jpg
-
-
-
-└── README.md
-
----
 
 ### Technologies Used
 
