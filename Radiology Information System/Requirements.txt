@@ -1,0 +1,7 @@
+#This project uses only python's standard library.
+#No external packages are required.
+tkinter
+sqlite3
+hashlib
+Python
+datetime
