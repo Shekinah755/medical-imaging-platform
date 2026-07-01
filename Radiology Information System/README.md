@@ -31,7 +31,7 @@ The project was developed as part of my learning in Medical Imaging and software
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Shekinah755/medical-imaging-platform/tree/main
+git clone https://github.com/Shekinah755/medical-imaging-platform.git
 ```
 
 ### 2. Navigate to project folder
