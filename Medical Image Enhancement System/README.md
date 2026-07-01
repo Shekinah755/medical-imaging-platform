@@ -1,6 +1,6 @@
-Medical Image Enhancement System
+# Medical Image Enhancement System
 
-Overview
+## Overview
 
 The Medical Image Enhancement System is an image processing project developed using Python and OpenCV to improve the visual quality of medical images such as chest X-rays.
 
@@ -8,7 +8,7 @@ The system applies multiple image enhancement techniques including noise reducti
 
 ---
 
-Objectives
+## Objectives
 
 - Reduce image noise while preserving important anatomical structures.
 - Improve local image contrast.
@@ -17,52 +17,52 @@ Objectives
 - Visualize image edges and structural boundaries.
 - Demonstrate the application of digital image processing techniques in medical imaging.
 
-Features
+## Features
 
-Image Preprocessing
+### Image Preprocessing
 
 - Image loading and validation
 - Grayscale conversion
 - Image normalization
 - Image resizing for standardized processing
 
-Noise Reduction
+### Noise Reduction
 
 - Non-Local Means Denoising for noise suppression while preserving image details
 
-Contrast Enhancement
+### Contrast Enhancement
 
 - Contrast Limited Adaptive Histogram Equalization (CLAHE) for improved local contrast
 
-Brightness Enhancement
+### Brightness Enhancement
 
 - Gamma Correction for improved visibility of low-intensity regions
 
-Image Sharpening
+### Image Sharpening
 
 - Unsharp Masking
 - Kernel-based image sharpening
 
-Edge Detection
+### Edge Detection
 
 - Sobel Edge Detection
 - Canny Edge Detection
 
-Dataset Processing
+### Dataset Processing
 
 - Batch processing of chest X-ray datasets
 - Automated preprocessing of training, testing, and validation images
 - Creation of organized output datasets for machine learning workflows
 
-Quality Assurance Tools
+###  Quality Assurance Tools
 
 - Image count verification
 - Corrupt image detection
 - Sample image visualization for preprocessing validation
 
-Experimental Techniques
+### Experimental Techniques
 
-The project notebook includes comparative experiments using:
+#### The project notebook includes comparative experiments using:
 
 - Mean Filtering
 - Gaussian Filtering
@@ -71,15 +71,15 @@ The project notebook includes comparative experiments using:
 - Adaptive Thresholding
 - Alternative edge detection methods
 
-Output Generation
+### Output Generation
 
 - Enhanced image export
 - Processed dataset generation
 - Visualization of intermediate and final processing stages
 
-Project Structure
+### Project Structure
 
-Medical_Image_Enhancement_System/
+#### Medical_Image_Enhancement_System/
 
 ├── main.py
 
@@ -95,7 +95,7 @@ Medical_Image_Enhancement_System/
 
 ---
 
-Technologies Used
+### Technologies Used
 
 - Python
 - OpenCV
@@ -105,7 +105,7 @@ Technologies Used
 
 ---
 
-Processing Pipeline
+### Processing Pipeline
 
 1. Load image
 2. Convert image to grayscale
@@ -119,7 +119,7 @@ Processing Pipeline
 
 ---
 
-Results
+### Results
 
 The enhancement pipeline improves image visibility by reducing noise, increasing local contrast, enhancing brightness, and sharpening important image details while preserving anatomical structures.
 
@@ -127,7 +127,7 @@ Sample output images can be found in the outputs folder.
 
 ---
 
-Future Improvements
+### Future Improvements
 
 - Support for DICOM images
 - Graphical User Interface (GUI)
@@ -137,9 +137,9 @@ Future Improvements
 
 ---
 
-Author
+### Author
 
-Denuabu Peters Goodness Godslove
+#### Denuabu Peters Goodness Godslove
 
 Medical Imaging Student
 
