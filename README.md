@@ -21,7 +21,13 @@ A desktop application that manages radiology workflow in a hospital environment.
 - SQLite (Database)
 - SHA-256 (Password Security)
 
-How to Run
+How to Run the Project
+### Radiology Information System
+```bash
+cd "Radiology Information System"
+python main.py
+```
+
 
 
 
@@ -42,8 +48,9 @@ NumPy
 Image processing algorithms
 
  How to Run
+## Medical Image Enhancement System
+```bash
 cd "Medical Image Enhancement System"
 python main.py
-```bash
-cd "Radiology Information System"
-python main.py
+```
+
